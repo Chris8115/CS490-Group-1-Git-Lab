@@ -9,5 +9,7 @@ public class Main {
         System.out.println("Amogh Dalal");
         System.out.println("Zain Abbas");
         System.out.println("Chris Defeo");
+
+        System.out.println("Welcome to CS490.");
     }
 }
